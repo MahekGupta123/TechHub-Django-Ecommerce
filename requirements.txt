@@ -1,0 +1,5 @@
+Django==5.2.7
+stripe==7.8.0
+python-dotenv==1.0.0
+paypalrestsdk==1.7.1
+Pillow==10.1.0
